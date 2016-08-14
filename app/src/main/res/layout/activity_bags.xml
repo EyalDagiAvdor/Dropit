@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/activity_buy_title"
+    android:layout_margin="10dp"
+    android:textSize="20sp"/>
+
+  <ListView
+    android:id="@+id/list_of_items"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:layout_margin="6dp"
+    />
+
+  <Button
+    android:id="@+id/address_next_button"
+    android:layout_width="100dp"
+    android:layout_height="50dp"
+    android:layout_gravity="center"
+    android:layout_marginBottom="20dp"
+    android:text="@string/next"
+    android:textSize="20sp"/>
+
+</LinearLayout>

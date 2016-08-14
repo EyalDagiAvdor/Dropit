@@ -1,0 +1,32 @@
+<resources>
+  <string name="app_name">Dropit</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+
+  <string name="activity_name_title">Please provide your Name:</string>
+  <string name="first_name">First Name:</string>
+  <string name="last_name">Last Name:</string>
+
+  <string name="next">Next!</string>
+
+  <string name="activity_address_title">Please provide your Address:</string>
+  <string name="street_name">Street Name:</string>
+  <string name="street_number">Number:</string>
+  <string name="city">City:</string>
+
+  <string name="country">Country:</string>
+
+  <string name="activity_buy_title">Shopping Summary:</string>
+
+  <string name="activity_drop_title">Drop Summary:</string>
+
+  <string name="contact">contact:</string>
+  <string name="address">address:</string>
+  <string name="num_of_bags">Number of bags:</string>
+  <string name="drop">Drop!</string>
+  <string name="successful_drop">Drop success!</string>
+  <string name="content_autority">com.dropit.eyaldagiavdor.dropit</string>
+
+
+</resources>
